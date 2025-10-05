@@ -1,4 +1,4 @@
-## Oii! Bem-vindo ao meu GitHub, me chamo Cristina Beck.
+## Oii! Bem-vindo ao meu GitHub, me chamo  Cristina Beck.
 Sou estudante de Ciências Contábeis, mas recentemente comecei minha jornada na área de Tecnologia da Informação.
 Atualmente, estou me dedicando ao Desenvolvimento Full Stack, buscando evoluir minhas habilidades e construir uma nova trajetória profissional.
 Tenho muito interesse em aprender, explorar novas ferramentas e transformar ideias em soluções práticas.
